@@ -7,6 +7,8 @@ name = "pypi"
 python-decouple = "==3.8"
 django-taggit = "==5.0.1"
 pillow = "*"
+django-crispy-forms = "*"
+crispy-bootstrap5 = "*"
 
 [dev-packages]
 
